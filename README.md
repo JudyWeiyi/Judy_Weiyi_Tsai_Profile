@@ -26,6 +26,9 @@ Masters in Analytics and Information Technology, Carnegie Mellon University
 - Linear Regression, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Perceptron, Neural Networks, RNNs, CNNs, Reinforcement Learning (Value/Policy Iteration/Q-Learning/Deep RL), Probably Approximately Correct learning, Generative Model
 - Dimensionality Reduction (Principal Component Analysis), Feature Selection, Model Selection, Experimental Design, Optimization, Gradient Descent, Regularization, Backpropagation, Transformers, Autodiff, Ensemble Methods
 
+#### Projects
+- Customer Segmentation and Churn Rate Prediction
+
 ### Nature Language Processing:
 - Word embeddings, Vector semantics, Part of speech tags, Contextualized representations (BERT), Natural Language Generation, Machine Translation
 
