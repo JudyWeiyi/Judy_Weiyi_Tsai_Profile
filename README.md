@@ -5,6 +5,7 @@ Passionate about leveraging data-driven insights to drive impactful decisions an
 Excited to collaborate on innovative projects and contribute to meaningful solutions.
 
 📍 USA
+
 📧 Email: judytsaitpe@gmail.com
 
 ## Tech Toolbox 🛠️
