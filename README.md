@@ -4,8 +4,7 @@ I'm a Data Scientist with a keen focus on product development, operations, and s
 Passionate about leveraging data-driven insights to drive impactful decisions and optimize business processes.
 Excited to collaborate on innovative projects and contribute to meaningful solutions.
 
-📍 USA
-
+📍 USA\
 📧 Email: judytsaitpe@gmail.com
 
 ## Tech Toolbox 🛠️
