@@ -1,4 +1,4 @@
-👋 Hello, I'm Judy!
+#👋 Hello, I'm Judy!
 
 I'm a Data Scientist with a keen focus on product development, operations, and sales force effectiveness.
 Passionate about leveraging data-driven insights to drive impactful decisions and optimize business processes.
