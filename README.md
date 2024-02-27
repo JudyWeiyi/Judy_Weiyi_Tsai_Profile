@@ -22,9 +22,27 @@ Specialties: Machine Learning, NLP
 Masters in Analytics and Information Technology, Carnegie Mellon University
 
 ## Courses 📜
-Data Science | Machine Learning | Generative AI | Natural Language Processing | Big Data Large-scale Computing |
-A/B testing | Database Management | Data Visualization | Information System | Data Engineer | Statistics | Forecasting | 
-Product Strategy | CRM System | Omnichannel Engagement | Digital Transformation | Operation 
+### Machine Learning:
+- Linear Regression, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Perceptron, Neural Networks, RNNs, CNNs, Reinforcement Learning (Value/Policy Iteration/Q-Learning/Deep RL), Probably Approximately Correct learning, Generative Model
+- Dimensionality Reduction (Principal Component Analysis), Feature Selection, Model Selection, Experimental Design, Optimization, Gradient Descent, Regularization, Backpropagation, Transformers, Autodiff, Ensemble Methods
+
+### Nature Language Processing:
+- Word embeddings, Vector semantics, Part of speech tags, Contextualized representations (BERT), Natural Language Generation, Machine Translation
+
+
+### Generative AI:
+  
+### Big Data Large-scale Computing:
+
+
+### Database Management
+- Relational Data Model, SQL Queries, Regular Expressions, Database Design and Implementation,Cursors and Subprogram, Database Procedures, Triggers, Functions and Jobs, Data Warehousing, Distributed Databases, Grid Computing
+  Tools: Oracle DataModeler, Postgres SQL, Oracle SQL, MySQL, PLSQL
+- Non-Relational Data Model, 
+Postgres SQL, Oracle SQL, MySQL, PLSQL) | NoSQL (Redis, MongoDB, Cassandra, Neo4j, HBase)
+
+
+### Other: Statistics, A/B testing, Data Visualization, Information System
 
 Let's brainstorm, innovate, and incorporate AI into shaping tomorrow.
 Whether it's collaborating on projects or discussing the boundless opportunities of AI, feel free to reach out for a conversation!
