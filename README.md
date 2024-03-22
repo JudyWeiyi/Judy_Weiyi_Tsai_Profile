@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="styles.css">
+
+
 # Hello, I'm Judy! 👋
 
 I'm a Data Scientist with a keen focus on product development, operations, and sales force effectiveness.
