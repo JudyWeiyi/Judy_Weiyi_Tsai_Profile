@@ -3,23 +3,24 @@
 
 # Hello, I'm Judy! 👋
 
-I'm a Data Scientist with a keen focus on product development, operations, and sales force effectiveness.
-Passionate about leveraging data-driven insights to drive impactful decisions and optimize business processes.
-Excited to collaborate on innovative projects and contribute to meaningful solutions.
+I'm a Data Scientist specializing in product development, marketing strategies, business operations, and sales force effectiveness.
+My passion lies in utilizing data-driven insights to make impactful decisions and optimize business solutions. 
+
+I am curious and thrive on uncovering new insights and embracing innovative approaches to tackle the challenges encountered by the company. Through my previous experiences, I have demonstrated adaptability, a passion for continuous learning, strong communication skills to effectively translate technical expertise into actionable insights that fulfill the business's needs, and proficiency in utilizing emerging tools to develop business strategies in today's competitive market.
 
 📍 USA\
 📧 Email: judytsaitpe@gmail.com
 
 ## Tech Toolbox 🛠️
-Languages: Python, SQL
+Languages: Python, SQL\
 Frameworks & Libraries:
-- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, NLTK, PyTorch, PySpark, Tensorflow, Gurobi
+- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Spacy, PyTorch, PySpark, Tensorflow, Gurobi
 - Postgres SQL, Oracle SQL, MySQL, PLSQL
 - Redis, MongoDB, Cassandra, Neo4j, HBase
 - Hadoop, Spark, Mahout, Hive, Pig
 - Power BI, Tableau, Qlik, Cognos
 Tools: AWS, Git
-Specialties: Machine Learning, NLP
+Specialties: Machine Learning, NLP, Generative AI
 
 ## Education 🎓 
 Masters in Analytics and Information Technology, Carnegie Mellon University
