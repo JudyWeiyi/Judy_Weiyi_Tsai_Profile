@@ -1,16 +1,11 @@
-<!-- Your GitHub Profile -->
+# Hello, I'm Judy! 👋
 
-<!-- Black Background -->
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 8px;">
+I'm a Data Scientist with a keen focus on product development, operations, and sales force effectiveness.
+Passionate about leveraging data-driven insights to drive impactful decisions and optimize business processes.
+Excited to collaborate on innovative projects and contribute to meaningful solutions.
 
-<!-- Your Name -->
-<h1>Hello, I'm Judy! 👋</h1>
-
-<!-- Your Bio -->
-<p>I'm a Data Scientist with a keen focus on product development, operations, and sales force effectiveness. Passionate about leveraging data-driven insights to drive impactful decisions and optimize business processes. Excited to collaborate on innovative projects and contribute to meaningful solutions.</p>
-
-<!-- Your Contact Info -->
-<p>Contact: [judytsaitpe@gmail.com](mailto:judytsaitpe@gmail.com)</p>
+📍 USA\
+📧 Email: judytsaitpe@gmail.com
 
 ## Tech Toolbox 🛠️
 Languages: Python, SQL
@@ -54,7 +49,4 @@ Postgres SQL, Oracle SQL, MySQL, PLSQL) | NoSQL (Redis, MongoDB, Cassandra, Neo4
 
 Let's brainstorm, innovate, and incorporate AI into shaping tomorrow.
 Whether it's collaborating on projects or discussing the boundless opportunities of AI, feel free to reach out for a conversation!
-
-</div>
-
 
