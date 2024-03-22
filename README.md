@@ -53,9 +53,6 @@ Masters in Analytics and Information Technology, Carnegie Mellon University
 
 ### Other: Statistics, A/B testing, Data Visualization, Information System
 
-#### Projects
-- [Customer Segmentation and Churn Rate Prediction](customer_segmentation_chrun_rate_prediction/customer_segmentation_chrun_rate_prediction.md)
-
 Let's brainstorm, innovate, and incorporate AI into shaping tomorrow.
 Whether it's collaborating on projects or discussing the boundless opportunities of AI, feel free to reach out for a conversation!
 
